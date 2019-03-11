@@ -8,3 +8,7 @@ Variety of curated data science algorithms and methods
 - [Factor Analysis](https://www.youtube.com/watch?reload=9&v=WV_jcaDBZ2I)
 
 - [Type I and II Errors, Power, Effect Size, Significance and Power Analysis in Quantitative Research](https://www.youtube.com/watch?v=OWn3Ko1WYTA)
+
+- [Guide to Master Hypothesis Testing in Statistics](https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/): 
+
+- 
