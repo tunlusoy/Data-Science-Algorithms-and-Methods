@@ -11,4 +11,6 @@ Variety of curated data science algorithms and methods
 
 - [Guide to Master Hypothesis Testing in Statistics](https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/): 
 
-- 
+- [The Importance of P-Values in Data Science](https://opendatascience.com/the-importance-of-p-values-in-data-science/)
+
+
