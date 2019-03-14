@@ -13,4 +13,8 @@ Variety of curated data science algorithms and methods
 
 - [The Importance of P-Values in Data Science](https://opendatascience.com/the-importance-of-p-values-in-data-science/)
 
+- [Machine Learning – Introduction to Its Algorithms – MLAlgos](https://vinodsblog.com/2018/03/26/machine-learning-introduction-to-its-algorithms-mlalgos/)
 
+- [Deep Learning – Introduction to Convolutional Neural Networks](https://vinodsblog.com/2018/10/15/everything-you-need-to-know-about-convolutional-neural-networks/)
+
+- 
