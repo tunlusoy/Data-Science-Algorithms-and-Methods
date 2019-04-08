@@ -53,3 +53,6 @@ Variety of curated data science algorithms and methods
 
 - [A Neural Network Playground](http://playground.tensorflow.org): Tinker With a Neural Network Right Here in Your Browser.
 Don’t Worry, You Can’t Break It. We Promise.
+
+## Tips and Tricks
+- [How to do repeatable sampling in BigQuery Standard SQL?](https://stackoverflow.com/questions/46019624/how-to-do-repeatable-sampling-in-bigquery-standard-sql): FARM_FINGERPRINT, and [Consistent hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
