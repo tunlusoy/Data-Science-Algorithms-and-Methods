@@ -30,7 +30,9 @@ Variety of curated data science algorithms and methods
   - [Tasting Room Wine Club Review Video](https://www.youtube.com/watch?v=mNVifC-tUKI): 
 
 ## Supervised Learning
+- [Random Forests vs Gradient Boosting Machines](https://medium.com/@aravanshad/gradient-boosting-versus-random-forest-cfa3fa8f0d80)
 
+- [XGBoost](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf): XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
 
 - [Analysis of Variance (ANOVA)](https://www.youtube.com/watch?v=0Vj2V2qRU10)
 
