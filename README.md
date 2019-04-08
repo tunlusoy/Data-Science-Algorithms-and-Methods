@@ -2,15 +2,18 @@
 Variety of curated data science algorithms and methods
 
 ## Unsupervised Learning
+### Principal Component Analysis
+- [Principal Component Analysis - Explained Visually](http://setosa.io/ev/principal-component-analysis/): Principal component analysis (PCA) is a technique used to emphasize variation and bring out strong patterns in a dataset. It's often used to make data easy to explore and visualize.
+
+- [Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=_UVHneBUBW0)
+
+### Factor Analysis
+- [Factor Analysis](https://www.youtube.com/watch?reload=9&v=WV_jcaDBZ2I)
 
 ## Supervised Learning
 
 
 - [Analysis of Variance (ANOVA)](https://www.youtube.com/watch?v=0Vj2V2qRU10)
-
-- [Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=_UVHneBUBW0)
-
-- [Factor Analysis](https://www.youtube.com/watch?reload=9&v=WV_jcaDBZ2I)
 
 - [Type I and II Errors, Power, Effect Size, Significance and Power Analysis in Quantitative Research](https://www.youtube.com/watch?v=OWn3Ko1WYTA)
 
