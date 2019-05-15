@@ -5,8 +5,9 @@ Variety of curated data science algorithms and methods
   - Exploring Data and Hand crafted feature engineering
    - Create and Select Features
    - Parameter Tuning and Ensemnling (used to be Random Forests, Gradient Boosting Machines, now XGBoost)
-  - Convolutional Netural Network
-   - 
+   - Convolutional Netural Network
+
+- [Interactive Learning Tools That Cen Help You Understand Different Machine Learning Algorithms](https://www.mladdict.com/)
 
 ## Statistical Tests
 - [Interview: John Elder, Founder at Elder Research - Berkeley Haas School of Business](https://www.youtube.com/watch?v=3o6E2WNqIcs)
